@@ -1,4 +1,4 @@
-# NCIS_Times_Series_Project
+# NAISC_Times_Series_Project
 
 There was an Arab investor who decided to invest his money in North American countries, specifically in three countries:
 Canada, Mexico, and the United States
